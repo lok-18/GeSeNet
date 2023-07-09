@@ -76,4 +76,4 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > ```
 
 ### Contact
-If you have any questions, please open an issue or email to me ([Jiawei Li](ljw19970218@163.com)).
+If you have any questions, please create an issue or email to me ([Jiawei Li](ljw19970218@163.com)).
