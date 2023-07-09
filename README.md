@@ -9,5 +9,5 @@ in IEEE Transactions on Neural Networks and Learning Systems (***IEEE TNNLS***)
 by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 
 <div align=center>
-<img src="[https://https://github.com/lok-18/GeSeNet/blob/main/fig/3-network.pdf" width="80%">
+<img src="https://github.com/lok-18/GeSeNet/blob/main/fig/network.png" width="100%">
 </div>
