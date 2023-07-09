@@ -39,7 +39,8 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > The datasets in our paper are all from: [Harvard medical images](http://www.med.harvard.edu/AANLIB/)
 
 ### Test
-> Run ```test.py``` to get fused results, and you can check them in:
+> The pre-trained model has given in ```./model/GeSeNet.pth```.
+> Please run ```test.py``` to get fused results, and you can check them in:
 > ```
 > results
 > ├── MRI_CT
@@ -57,3 +58,22 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > ```
 
 ### Experimental results
+> The qualitative comparison results of our GeSeNet with nine state-of-the-art methods on MRI-CT, MRI-PET and MRI-SPECT image pairs.
+> <div align=center>
+> <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/MRI_CT.png" width="100%">
+> </div> 
+> <div align=center>
+> <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/MRI_PET.png" width="100%">
+> </div>
+> <div align=center>
+> <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/MRI_SPECT.png" width="100%">
+> </div>
+> Please refer to this paper for more experimental results and details.
+
+### Citation
+> ```
+> We will updata the BibTex after it is published.
+> ```
+
+### Contact
+If you have any questions, please open an issue or email to me ([Jiawei Li](ljw19970218@163.com))
