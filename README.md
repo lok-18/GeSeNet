@@ -4,15 +4,15 @@
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.7.0-orange)](https://pytorch.org/)
 
-### GeSeNet: A General Semantic-guided Network with Couple Mask Ensemble for Medical Image Fusion
-in IEEE Transactions on Neural Networks and Learning Systems (***IEEE TNNLS***)  
+### *GeSeNet: A General Semantic-guided Network with Couple Mask Ensemble for Medical Image Fusion*
+in IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**)  
 by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 
 <div align=center>
 <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/network.png" width="100%">
 </div>
 
-### Requirements  
+### *Requirements* 
 > - python 3.7  
 > - torch 1.7.0
 > - torchvision 0.8.0
@@ -20,7 +20,7 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > - numpy 1.21.6
 > - pillow 9.4.0
 
-### Dataset setting
+### *Dataset setting*
 > We give 5 test image pairs as examples in three modalities (i.e., MRI-CT, MRI-PET, MRI-SPECT), respectively.
 > 
 > Moreover, you can set your own test datasets of different modalities under ```./test_images/...```, like:   
@@ -38,7 +38,7 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > ```
 > The datasets in our paper are all from: [Harvard medical images](http://www.med.harvard.edu/AANLIB/)
 
-### Test
+### *Test*
 > The pre-trained model has given in ```./model/GeSeNet.pth```.
 > Please run ```test.py``` to get fused results, and you can check them in:
 > ```
@@ -57,7 +57,7 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > |   └── ...
 > ```
 
-### Experimental results
+### *Experimental results*
 > The qualitative comparison results of our GeSeNet with nine state-of-the-art methods on MRI-CT, MRI-PET and MRI-SPECT image pairs.
 > <div align=center>
 > <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/MRI_CT.png" width="100%">
@@ -70,10 +70,15 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > </div>
 > Please refer to the paper for more experimental results and details.
 
-### Citation
+### *Citation*
 > ```
-> We will updata the BibTex after it is published.
+> We will update the BibTex after it is published.
 > ```
 
-### Contact
-If you have any questions, please create an issue or email to me ([Jiawei Li](ljw19970218@163.com)).
+### *Realted works*
+> - Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov. ***Learning a Coordinated Network for Detail-refinement Multi-exposure Image Fusion***. IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2022, 33(2): 713-727. [[*Paper*]](https://ieeexplore.ieee.org/abstract/document/9869621)
+> - Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov. ***Infrared and visible image fusion based on residual dense network and gradient loss***. Infrared Physics & Technology, 2023, 128: 104486. [[*Paper*]](https://www.sciencedirect.com/science/article/pii/S1350449522004674)
+> - Jia Lei, Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov. ***GALFusion: Multi-exposure Image Fusion via a Global-local Aggregation Learning Network***. IEEE Transactions on Instrumentation and Measurement (**IEEE TIM**), 2023, 72: 1-15. [[*Paper*]](https://ieeexplore.ieee.org/abstract/document/10106641)
+
+### *Contact*
+> If you have any questions, please create an issue or email to me ([Jiawei Li](ljw19970218@163.com)).
