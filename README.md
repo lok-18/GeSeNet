@@ -75,7 +75,6 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 >   title={GeSeNet: A General Semantic-guided Network with Couple Mask Ensemble for Medical Image Fusion},
 >   author={Li, Jiawei and Liu, Jinyuan and Zhou, Shihua and Zhang, Qiang and Kasabov, Nikola},
 >   journal={IEEE Transactions on Neural Networks and Learning Systems},
->   pages={TNNLS--2022},
 >   year={2023},
 >   publisher={IEEE}
 > }
