@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.7.0-orange)](https://pytorch.org/)
 
-### *GeSeNet: A General Semantic-guided Network with Couple Mask Ensemble for Medical Image Fusion* [[*Paper*]](https://ieeexplore.ieee.org/document/10190200)
+### *GeSeNet: A General Semantic-guided Network with Couple Mask Ensemble for Medical Image Fusion* [[*Paper*]](https://ieeexplore.ieee.org/document/10190200) [[*Google Scholar*]](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=GeSeNet%3A+A+General+Semantic-Guided+Network+With+Couple+Mask+Ensemble+for+Medical+Image+Fusion&btnG=)
 in IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**)  
 by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 <div align=center>
