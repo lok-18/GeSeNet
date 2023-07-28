@@ -1,6 +1,6 @@
 # GeSeNet
 
-[![IEEE](https://img.shields.io/badge/IEEE-TNNLS-purple)]([https://github.com/lok-18/GeSeNet/blob/main/LICENSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385))
+[![IEEE](https://img.shields.io/badge/IEEE-TNNLS-purple)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 [![LICENSE](https://img.shields.io/badge/License-MIT-green)](https://github.com/lok-18/GeSeNet/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7.0-orange)](https://pytorch.org/)
