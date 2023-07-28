@@ -36,7 +36,7 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > |   |   ├── 2.png
 > |   |   └── ...
 > ```
-> The datasets in our paper are all from: [Harvard medical images](http://www.med.harvard.edu/AANLIB/)
+> The datasets in our paper are all from: [[*Harvard medical images*]](http://www.med.harvard.edu/AANLIB/)
 
 ### *Test*
 > The pre-trained model has given in ```./model/GeSeNet.pth```.
