@@ -87,4 +87,4 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > - Jia Lei, Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov. ***GALFusion: Multi-exposure Image Fusion via a Global-local Aggregation Learning Network***. IEEE Transactions on Instrumentation and Measurement (**IEEE TIM**), 2023, 72: 1-15. [[*Paper*]](https://ieeexplore.ieee.org/abstract/document/10106641) [[*Code*]](https://github.com/jialei-sc/GALFusion)
 
 ### *Contact*
-> If you have any questions, please create an issue or email to me ([Jiawei Li](ljw19970218@163.com)).
+> If you have any questions, please create an issue or email to me ([Jiawei Li](mailto:ljw19970218@163.com)).
