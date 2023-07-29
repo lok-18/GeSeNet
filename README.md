@@ -68,7 +68,7 @@ by Jiawei Li, Jinyuan Liu, Shihua Zhou, Qiang Zhang and Nikola K. Kasabov
 > <div align=center>
 > <img src="https://github.com/lok-18/GeSeNet/blob/main/fig/MRI_SPECT.png" width="100%">
 > </div>
-> Please refer to the paper for more experimental results and details.
+> <br>Please refer to the paper for more experimental results and details.</br>
 
 ### *Citation*
 > ```
